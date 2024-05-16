@@ -10,7 +10,7 @@
 </p>
 
 <h3 align="center"
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=K0p9&show_icons=true&locale=en" alt="K0p9" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=K0p9&show_icons=true&locale=en" alt="K0p9" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=K0p9&" alt="K0p9" /></p> 
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=K0p9&" alt="K0p9" /></p> 
 </h3>
